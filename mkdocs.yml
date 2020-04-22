@@ -1,10 +1,10 @@
 # Project information
 site_name: 'Loki Docs'
-site_url: 'https://loki-project.github.io/loki-mandarin/'
+site_url: 'https://chanosan.github.io/loki-japanese/'
 
 # Repository
 repo_name: 'lokidocs'
-repo_url: 'https://github.com/loki-project/loki-mandarin'
+repo_url: 'https://github.com/chanosan/loki-japanese'
 
 # Configuration
 theme:
