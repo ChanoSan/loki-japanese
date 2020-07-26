@@ -70,45 +70,45 @@
 
 <div class="services-container">
     <div class="messenger-container">
-        <h3>信使</h3>
+        <h3>セッション</h3>
         <div class="messenger-img">
             <img src="assets/images/LokiArtboard.png">
         </div>
         <p>
-            Loki Messenger是适用于所有平台的去中心化私人消息传递应用程序。 匿名和无懈可击的消息传递应用程序让您高枕无忧。
+            セッション はオープンソース、公開鍵をもとにしたの安全なメッセンジャーアプリです。分散型の記憶サーバーそしてオニオンルーティングプロトコルによって、メタデータの暴露をできる限り防止しながら終端間暗号化されるメッセージを通信します。
         </p>
     </div>
     <div class="sn-container">
-        <h3>服务节点</h3>
+        <h3>サービスノード</h3>
         <div class="sn-img">
             <img src="assets/images/LokiBox.png">
         </div>
         <p>
-            服务节点是Loki网络的核心，并通过其贡献获得可观的经济回报。 使用服务节点，您可以实现托管服务，运行SNApp和浏览Lokinet。再让互联网变得更加私密的过程中获得盈利。 
+            サービスノードはLokinetの根幹を成します。その管理者は仮想通貨を稼ぐことができ、ユーザに様々なプライベートそして匿名なサービスへのアクセスを与えます。インターネットをよりプライベートにするし、もっと利益が出れるようにします。 
             <br><br>
-            <a href="https://github.com/loki-project/loki-docs/blob/master/docs/ServiceNodes/SNFullGuide.md"> 查看服务节点指南以托管您自己的服务节点。</a>
+            <a href="https://github.com/loki-project/loki-docs/blob/master/docs/ServiceNodes/SNFullGuide.md"> 自分のサービスノードを管理したい方、このガイドを見て下さい。</a>
         </p>
     </div>  
     <div class="lokinet-container">
-        <h3>洛基网络</h3>
+        <h3>Lokinet</h3>
         <div class="lokinet-img">
             <img src="assets/images/loki_sample.png">
         </div>
         <p>
-            独特的Lokinet由区块链强制实施和激励的洋葱路由网络，您可以在其中匿名浏览互联网，访问和托管私人网站，而无需暴露您的身份或IP地址。 
+            Lokinetは財政的に奨励された、管理者の存在しない定足数に基づく混合ネットワークです。ユーザーに匿名の、分散的で、安全な、そしてプライベートにオンラインで交流する能力を提供します。
             <br><br>
-            <a href="https://github.com/loki-project/loki-docs/blob/master/docs/Lokinet/LokinetOverview.md">查看Lokinet概述以了解更多信息。</a>
+            <a href="https://github.com/ChanoSan/loki-docs/blob/master/JP/Lokinet/LokinetOverview.md">詳しくはLokinet概要を見て下さい。</a>
         </p>
     </div>
     <div class="snapps-container">
-        <h3>服务节点应用程序</h3>
+        <h3>SNApps（サービスノードアプリ）</h3>
         <div class="snapps-img">
             <img src="assets/images/LokiInterface.png">
         </div>
         <p>
-            SNApps（服务节点应用程序）允许在Lokinet内托管隐藏的私有Web应用程序。 借助SNApp，您可以建立反审查的社交媒体平台，新闻站点，市场和其他社区，这种可能性是无止境的。
+            SNAppsはサーバー側・ユーザー側両方の匿名性を維持しながら、市場・フォーラム・内部告発ウェブサイト・ソーシャルメディアをはじめとしたインターネットアプリケーションのホストとアクセスを可能にします。
             <br><br>
-            <a href="https://github.com/loki-project/loki-docs/blob/master/docs/Lokinet/Guides/PublicTestingGuide.md">查看公共测试指南以托管自己的SNApp。</a>
+            <a href="https://github.com/ChanoSan/loki-docs/blob/master/JP/Lokinet/Guides/HostingSNApps.md">自分のSNAppを作りたい方、このガイドを見て下さい。</a>
         </p>
     </div>      
 </div>
