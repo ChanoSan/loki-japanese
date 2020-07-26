@@ -234,6 +234,11 @@ img
     border-radius:10px;
 }
 
+.md-icon--menu
+{
+    display:none;
+}
+
 @media only screen and (min-width: 76.1875em)
 {
     .row 
@@ -349,4 +354,6 @@ img
     {
         height:230px;  
     }
-}
+
+
+}    
