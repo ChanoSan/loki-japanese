@@ -50,7 +50,7 @@
 </div>
 <div class="video-block">
     <video width="1000" poster="assets/AssetsChina/thumbnail.PNG" controls>
-    <source src="assets/AssetsChina/ChinaThisIsLokiHardSubs.webm"  type="video/webm">
+    <source src="assets/AssetsChina/JapanThisIsLokiHardSubs.webm"  type="video/webm">
         Your browser does not support the video tag.
     </video>
 </div>
